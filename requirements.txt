@@ -3,3 +3,4 @@ werkzeug
 Pillow
 opencv-python-headless
 numpy
+gunicorn
